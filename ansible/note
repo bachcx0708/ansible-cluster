@@ -1,0 +1,7 @@
+Note for local cluster x container
+
+ip : 
+ - host     : 172.18.0.1
+ - ubuntu 1 : 172.18.0.3
+ - ubuntu 2 : 172.18.0.2
+ - ubuntu 3 : 172.18.0.4
